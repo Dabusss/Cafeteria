@@ -15,8 +15,9 @@ public class Main {
 
         
     }
-    public void showStock(){
-            
+    public static void showStock(){
+            System.out.println("A continuacion se mostrará el stock disponible.");
+            // TODO: Method using FileReader
     }
 }
 
